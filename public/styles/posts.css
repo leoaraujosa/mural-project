@@ -1,0 +1,23 @@
+.container-style {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.send-posts {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+#posts {
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+.card {
+  margin-bottom: 10px;
+}
